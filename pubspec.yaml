@@ -1,6 +1,6 @@
 name: file_scan
 description: "A flutter plugin to scan file to android local storage so that file can be accessible outside the app"
-version: 1.0.3
+version: 1.0.4
 homepage: https://www.linkedin.com/in/weviavek/
 documentation: https://medium.com/@we.viavek/simplifying-android-file-system-updates-with-the-file-scan-plugin-for-flutter-032cd3c535a9
 repository: https://github.com/weviavek/file_scan.git
@@ -19,6 +19,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0
+
 
 flutter:
   plugin:
